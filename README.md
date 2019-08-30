@@ -31,8 +31,6 @@ Nous allons générer les étiquettes sous la forme la plus pertinente : impress
 
 ## 3. Préparation de la base de données
 
-- En début d'année
-
 Se connecter à l'ENT avec les identifiants administrateur.
 Aller dans la rubrique **Annuaire*. Dans le menu **Administration* et *Fichier des identifiants*. Cliquez sur Valider, un fichier .csv sera généré. Téléchargez-le.
 
@@ -48,7 +46,7 @@ Ouvrez le fichier .csv avec LibreOffice Calc. Vous pouvez supprimez toutes les c
 
 Enregistrez le fichier en .ods.
 	
-4. Création des étiquettes
+## 4. Création des étiquettes
 
 Le fichier des étiquettes pour l'année 2019-2020 existe, il vous suffit de le reprendre. Si vous voulez créer le vôtre, suivez ces étapes.
 
